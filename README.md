@@ -10,7 +10,7 @@ Founder and CEO of Web Development Agency NebulaDevs, I originally started Nebul
 * ✉️  You can contact me at [contact@nebuladevs.com](mailto:contact@nebuladevs.com)
 * 🚀  I'm currently working on [NebulaDevs](http://nebuladevs.com)
 * 🤝  I'm open to collaborating on NebulaDevs
-
+* 🔒  My profile repos are all set to private at the moment
 ### Skills
 
 <p align="left">
