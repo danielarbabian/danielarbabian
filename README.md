@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel
 Founder of NebulaDevs
 ---------------------
 
-Founder and CEO of Web Development Agency NebulaDevs, I originally started NebulaDevs as a fun project to build some experience and reputation, as of recently we shifted our focus at NebulaDevs to being a web development agency focusing on building our clients their dream websites.
+Founder and CEO of Customer Acquisition Agency NebulaDevs, I originally started NebulaDevs as a fun project to build some experience and reputation, as of recently we shifted our focus at NebulaDevs to being a customer acquisition agency focusing on scaling our clients businesses.
 
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [contact@nebuladevs.com](mailto:contact@nebuladevs.com)
