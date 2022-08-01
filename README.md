@@ -1,4 +1,4 @@
-Hi 👋 My name is Daniel
+Daniel
 =======================
 
 Founder of NebulaDevs
